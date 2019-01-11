@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Background">#413e4f</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="Save">#079613</color>
+    <color name="linearone">#079613</color>
+    <color name="lineartwo">#24e68b</color>
+    <color name="Camera">#c9c616</color>
+    <color name="Location">#577b5a</color>
+    <color name="log">#52ede0</color>
+    <color name="red">#f20615</color>
+    <color name="colorLincess">#6b1ccc</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="pending">#f70707</color>
+    <color name="approved">#17b705</color>
+    <color name="available">#ecbe16</color>
+    <color name="booked">#f70707</color>
+    <color name="view">#664343</color>
+</resources>
